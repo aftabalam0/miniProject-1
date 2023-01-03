@@ -1,6 +1,8 @@
 #Project overview
-Title-Meme Generator
-Description : A mini project that fetches images from an api with the ability to put text over it.
+
+Title -   Meme Generator
+Description : 
+A mini project that fetches images from an api with the ability to put text over it.
 
 In the project directory, you can run:
 
